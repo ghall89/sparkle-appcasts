@@ -10,7 +10,8 @@
         <language>en</language>
         <item>
             <title>Version 1.0.1</title>
-            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description>
                 <![CDATA[ <ul>
