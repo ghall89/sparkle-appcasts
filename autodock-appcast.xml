@@ -1,0 +1,28 @@
+<rss
+    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    version="2.0"
+>
+    <channel>
+        <title>AutoDock Test Release</title>
+        <link>https://github.com/ghall89/AutoDock</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0</title>
+            <sparkle:version>1.0.0</sparkle:version>
+            <description>
+            <![CDATA[ <ul>
+                <li>Initial release</li>
+            </ul> ]]>
+            </description>
+            <pubDate>Fri, 17 Jan 2015 15:20:11 +0000</pubDate>
+            <enclosure
+                url="https://github.com/ghall89/AutoDock/releases/download/v1.0.0/AutoDock.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="/HVBuLCXYHNod404gDqXy7BBT/ES5fbG1L3QoKU3S3jHAhYizesr+Z4/bNuOjsUOoqoLFzzQvuvEkpCJR7C3AQ=="
+                length="1900491"
+            />
+        </item>
+    </channel>
+</rss>
