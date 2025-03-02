@@ -9,23 +9,23 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.1</title>
+            <title>Version 1.1.0</title>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description>
                 <![CDATA[ <ul>
-                    <li>Fixed an issue where the app would detect the user manually hiding/showing the dock as a display change</li>
-                    <li>Fixed an issue where the settings window would hide behind active windows</li>
-                    <li>Added Sparkle updater</li>
+                    <li>App now requires Apple Events permissions to function</li>
+                    <li>Tweaked settings window verbiage</li>
+                    <li>Behind-the-scenes prep for future enhancements - will require you to re-do your settings, sorry about that 🙁</li>
                 </ul> ]]>
             </description>
             <pubDate>Fri, 17 Jan 2015 15:20:11 +0000</pubDate>
             <enclosure
-                url="https://github.com/ghall89/AutoDock/releases/download/v1.0.1/AutoDock.zip"
+                url="https://github.com/ghall89/AutoDock/releases/download/v1.1.0/AutoDock.zip"
                 type="application/octet-stream"
-                sparkle:edSignature="9991IObpUOeBVy2XG3AJQa8tiOFwiOb4vY0FctciveKsfD3jrKCkAdVHz8PwtNUFJUTKMn+8BgOh2wF8NBmiBQ=="
-                length="2839519"
+                sparkle:edSignature="+djR1ciKek61Pm3NR5SN9Hwp0bFzqpsA4/aXWIYV1mAA4w0OzFIKGtyq4l2H+FO71mnH2DGwv5aqLW2932zIAg=="
+                length="2860143"
             />
         </item>
     </channel>
