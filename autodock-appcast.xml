@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title>Version 1.1.0</title>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>110</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description>
